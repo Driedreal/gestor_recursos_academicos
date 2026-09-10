@@ -9,3 +9,6 @@ Todos los cambios notables realizados en este proyecto serán documentados en es
 * Configuración de la documentación base (`README.md`, `alcance.md`, `criterios.md`).
 * Creación del archivo de datos inicial `data/recursos.json` con registros de prueba.
 * Archivo principal de entrada `app/main.py`.
+
+## Se agrego mas documentacion
+

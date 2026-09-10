@@ -5,6 +5,8 @@ Para mantener una estructura organizada, cada recurso registrado en el sistema d
 1. **Tipo de Recurso**
    * Categorización según el formato del material.
    * *Ejemplos:* Libro, Artículo científico, Video tutorial, Documentación oficial, Ejercicio práctico.
+   * HOLA MUNDO 
+   * PRIN("HELLO WORLD")
 
 2. **Tema o Área de Conocimiento**
    * Materia o disciplina a la que corresponde el material.
