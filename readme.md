@@ -21,3 +21,6 @@ gestor_recursos/
 ├── CHANGELOG.md
 ├── README.md
 └── requirements.txt
+
+# proximas mejoras 
+- nuevas actualizaciones

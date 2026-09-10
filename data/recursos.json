@@ -16,5 +16,14 @@
     "nivel": "Intermedio",
     "autor": "Comunidad Open Source",
     "url": "https://example.com/git-guia"
+  },
+  {
+    "id": 3,
+    "titulo": "Guía Práctica de Git y GitHub",
+    "tipo": "Documentación",
+    "tema": "Control de versiones",
+    "nivel": "Intermedio",
+    "autor": "Comunidad Open Source",
+    "url": "https://example.com/git-guia"
   }
 ]
