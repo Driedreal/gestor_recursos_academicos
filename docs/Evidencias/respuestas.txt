@@ -1,0 +1,4 @@
+Responde en docs/respuestas.md: ¿Qué ventaja tiene registrar las dependencias del proyecto en
+requirements.txt en lugar de compartir la carpeta .venv?
+R = de esta manera las puede descargar el colaborador y se tiene registro
+

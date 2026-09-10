@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Aprende Python en 30 días",
+    "tipo": "Libro digital",
+    "tema": "Programación",
+    "nivel": "Introductorio",
+    "autor": "John Doe",
+    "url": "https://example.com/python-30-dias"
+  },
+  {
+    "id": 2,
+    "titulo": "Guía Práctica de Git y GitHub",
+    "tipo": "Documentación",
+    "tema": "Control de versiones",
+    "nivel": "Intermedio",
+    "autor": "Comunidad Open Source",
+    "url": "https://example.com/git-guia"
+  }
+]
