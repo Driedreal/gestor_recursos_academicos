@@ -25,3 +25,4 @@ gestor_recursos/
 # proximas mejoras 
 - nuevas actualizaciones
 ## Tipos de Recursos 
+- github. git 
